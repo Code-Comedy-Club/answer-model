@@ -27,7 +27,7 @@ class Algorithm(object):
         self.model_path = model_path
 
         # Initialize Support Vector Machine (SVM) model with a linear kernel
-        self.model = SVC(kernel = 'linear')
+        self.model = SVC(kernel = 'linear', probability = True)
         
         # Initialize TF-IDF tokenizer for text data
         self.tokenizer = TfidfVectorizer()
