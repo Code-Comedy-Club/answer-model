@@ -19,7 +19,7 @@ def translate(original_path: str = None, translated_path: str = None) -> None:
         if os.path.isdir(os.path.join(original_path, d)):
             translate(os.path.join(original_path, d), os.path.join(translated_path, d))
         
-        if d.endswith("yml"):
+        if d.endswith("yml") and os.path.exists(os.path.join(translated_path, d)) == False:
             create_path(translated_path)
 
             with open(os.path.join(original_path, d), "r") as file:
@@ -32,7 +32,7 @@ def translate(original_path: str = None, translated_path: str = None) -> None:
                 
                 if len(data_translated["answers"]) == len(data_original[0]["answers"]) and len(data_translated["questions"]) == len(data_original[0]["questions"]):
                     with open(os.path.join(translated_path, d), "w") as outfile:
-                        yaml.dump([data_translated], outfile, sort_keys = False, allow_unicode = True, width = float("inf"), default_style = '"')
+                        yaml.dump([data_translated], outfile, sort_keys = False, allow_unicode = True, width = float("inf"))
 
 def main():
     translate(config.dataset["path_raw_es"], config.dataset["path_raw_ca"])
