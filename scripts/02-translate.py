@@ -27,15 +27,15 @@ def translate(original_path: str = None, translated_path: str = None) -> None:
                 data_translated = {}
                 
                 data_translated["category"] = data_original[0]["category"]
-                data_translated["answers"] = [mtranslate.translate(answer, from_language = "es", to_language = "ca").replace("\n", " ") for answer in data_original[0]["answers"]]
-                data_translated["questions"] = [mtranslate.translate(question, from_language = "es", to_language = "ca").replace("\n", " ") for question in data_original[0]["questions"]]
+                data_translated["answers"] = [mtranslate.translate(answer, from_language = "es", to_language = "en").replace("\n", " ") for answer in data_original[0]["answers"]]
+                data_translated["questions"] = [mtranslate.translate(question, from_language = "es", to_language = "en").replace("\n", " ") for question in data_original[0]["questions"]]
                 
                 if len(data_translated["answers"]) == len(data_original[0]["answers"]) and len(data_translated["questions"]) == len(data_original[0]["questions"]):
                     with open(os.path.join(translated_path, d), "w") as outfile:
                         yaml.dump([data_translated], outfile, sort_keys = False, allow_unicode = True, width = float("inf"))
 
 def main():
-    translate(config.dataset["path_raw_es"], config.dataset["path_raw_ca"])
+    translate(config.dataset["path_raw_es"], config.dataset["path_raw_en"])
 
 if __name__ == "__main__":
     main()
