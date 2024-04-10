@@ -1,12 +1,12 @@
 - category: secretaria_matriculacion_ciclo_formativo_grado_medio_precio
   answers:
-  - El cost total per a tot el curs, que inclou material, serveis i assegurança, és de 60 euros.
-  - Tot el curs, incloent material, serveis i assegurança, té un cost de 60 euros.
-  - Per a tot el curs, el cost del material, serveis i assegurança és de 60 euros.
-  - L'import per al material, serveis i assegurança durant la totalitat del curs és de 60 euros.
-  - Per 60 euros, tindràs cobert el cost del material, els serveis i l'assegurança durant tot el curs.
-  - El desemborsament total per al material, serveis i assegurança durant tot el curs és de 60 euros.
-  - Per cobrir el material, els serveis i l'assegurança durant tot el curs, calen 60 euros.
+  - El cost total per a tot el curs de cicle mitjà, que inclou material, serveis i assegurança, és de 60 euros.
+  - Tot el curs de cicle mitjà, incloent material, serveis i assegurança, té un cost de 60 euros.
+  - Per a tot el curs de cicle mitjà, el cost del material, serveis i assegurança és de 60 euros.
+  - L'import per al material, els serveis i l'assegurança durant la totalitat del curs de cicle mitjà és de 60 euros.
+  - Per 60 euros, tindràs cobert el cost del material, serveis i assegurança durant tot el curs de cicle mitjà.
+  - El desemborsament total per al material, serveis i assegurança durant tot el curs de cicle mitjà és de 60 euros.
+  - Per cobrir el material, els serveis i l'assegurança durant tot el curs de cicle mitjà, calen 60 euros.
   questions:
   - Quin és el cost dinscripció per al grau mitjà?
   - Quant costa la matrícula del grau mitjà?
@@ -15,7 +15,7 @@
   - Quin és el preu dinscripció del grau mitjà?
   - Quants diners necessito per matricular-me al grau mitjà?
   - Quin és el valor de la matrícula del grau mitjà?
-  - Quan he de desemborsar per inscriure'm al grau mitjà?
+  - Quant he de desemborsar per inscriure'm al grau mitjà?
   - Quin és limport de la matriculació per al grau mitjà?
   - Quant és el cost de la matriculació del grau mitjà?
   - Quina és la suma a pagar per matricular-se al grau mitjà?
@@ -44,7 +44,7 @@
   - Quin és el cost d'inscripció al cicle mitjà?
   - Quant és limport de la matriculació del cicle mitjà?
   - Quina és la suma per matricular-se al cicle mitjà?
-  - Quan he de desemborsar per inscriure'm al fp mitjà?
+  - Quant he de desemborsar per inscriure'm al fp mitjà?
   - Quin és el cost de la inscripció per al fp mitjà?
   - Quin és limport de la inscripció per al fp mitjà?
   - Quin preu té la matrícula del fp mitjà?
@@ -71,7 +71,7 @@
   - A quant ascendeix la inscripció en la formació professional de cicle mitjà?
   - Quin és el preu total de la matrícula del formació professional de cicle mitjà?
   - Quant he de pagar per la matriculació en la formació professional de cicle mitjà?
-  - Quina és la tarifa d'inscripció per al formació professional de cicle mitjà?
+  - Quina és la tarifa d'inscripció per a la formació professional de cicle mitjà?
   - Quant costa ingressar al formació professional de cicle mitjà?
   - Quina és la suma a abonar per la inscripció del formació professional de cicle mitjà?
   - Quant és el pagament per la matriculació en la formació professional de cicle mitjà?
@@ -93,8 +93,8 @@
   - Quin és el cost de la matrícula per cursar la formació de grau mitjà?
   - Quin és el cost d'inscripció per a formació de grau mitjà?
   - Quant costa la matrícula de CFGM?
-  - Quin és limport de la matrícula per a CFGM?
-  - Quin és el preu d'inscripció per a CFGM?
+  - Quin és l'import de la matrícula per a CFGM?
+  - Quin és el preu dinscripció per a CFGM?
   - Quant he de pagar per matricular-me a CFGM?
   - Quant val la inscripció a CFGM?
   - Quan he de desemborsar per a la matrícula de CFGM?
