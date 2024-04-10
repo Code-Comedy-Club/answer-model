@@ -1,13 +1,13 @@
 - category: "secretaria_matriculacion_ciclo_formativo_grado_superior_precio"
   
   answers:
-    - "El coste total del material, servicios y seguro para el curso es de 60 euros, con un precio al público de 360 euros sin bonificaciones."
-    - "El coste para acceder al material, servicios y seguro durante todo el curso es de 60 euros, con un precio al público de 360 euros sin descuentos."
-    - "El precio establecido para el material, servicios y seguro durante todo el curso es de 60 euros, con un precio público de 360 euros sin descuentos."
-    - "El precio fijado para el material, servicios y seguro es de 60 euros, con un precio público de 360 euros sin bonificaciones."
-    - "El precio conjunto de material, servicios y seguro para el curso completo asciende a 60 euros, mientras que el precio público sin bonificaciones es de 360 euros."
-    - "El coste integral para el material, servicios y seguro durante todo el curso es de 60 euros, con un precio público sin bonificaciones de 360 euros."
-    - "El precio total para el material, servicios y seguro durante el curso es de 60 euros, con un precio público sin bonificaciones de 360 euros."
+    - "El coste total del material, servicios y seguro para el curso de ciclo superior es de 60 euros, con un precio al público de 360 euros sin bonificaciones."
+    - "El coste para acceder al material, servicios y seguro durante todo el curso de ciclo superior es de 60 euros, con un precio al público de 360 euros sin descuentos."
+    - "El precio establecido para el material, servicios y seguro durante todo el curso de ciclo superior es de 60 euros, con un precio público de 360 euros sin descuentos."
+    - "El precio fijado de ciclo superior para el material, servicios y seguro es de 60 euros, con un precio público de 360 euros sin bonificaciones."
+    - "El precio conjunto de material, servicios y seguro para el curso de ciclo superior completo asciende a 60 euros, mientras que el precio público sin bonificaciones es de 360 euros."
+    - "El coste integral para el material, servicios y seguro durante todo el curso de ciclo superior es de 60 euros, con un precio público sin bonificaciones de 360 euros."
+    - "El precio total para el material, servicios y seguro durante el curso de ciclo superior es de 60 euros, con un precio público sin bonificaciones de 360 euros."
 
   questions:
     - "¿Cuál es el costo de la matrícula para grado superior?"

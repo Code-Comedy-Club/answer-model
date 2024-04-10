@@ -1,13 +1,13 @@
 - category: "secretaria_informacion_horario"
   
   answers:
-    - "Nuestro horario presencial es de 10 a 13 horas, y el horario telefónico es de 12 a 14 horas."
-    - "El horario de atención en persona es de 10 a 13 horas, mientras que el horario telefónico es de 12 a 14 horas."
-    - "Nos encontramos disponibles en persona de 10 a 13 horas, y por teléfono de 12 a 14 horas."
-    - "El horario de atención es de 10 a 13 horas en persona, y de 12 a 14 horas por teléfono."
-    - "De 10 a 13 horas es el horario presencial, y de 12 a 14 horas el telefónico."
-    - "El horario de atención presencial es de 10 a 13 horas, mientras que el telefónico es de 12 a 14 horas."
-    - "Desde las 10 hasta las 13 horas tenemos atención presencial, y desde las 12 hasta las 14 horas, telefónica."
+    - "El horario de secretaria presencial es de 10 a 13 horas, y el horario telefónico es de 12 a 14 horas."
+    - "El horario de atención en persona en secretaria es de 10 a 13 horas, mientras que el horario telefónico es de 12 a 14 horas."
+    - "En secretaria, nos encontramos disponibles en persona de 10 a 13 horas, y por teléfono de 12 a 14 horas."
+    - "El horario de atención en secretaria es de 10 a 13 horas en persona, y de 12 a 14 horas por teléfono."
+    - "En secretaria, de 10 a 13 horas es el horario presencial, y de 12 a 14 horas el telefónico."
+    - "El horario en secretaria de atención presencial es de 10 a 13 horas, mientras que el telefónico es de 12 a 14 horas."
+    - "En secretaria, desde las 10 hasta las 13 horas tenemos atención presencial, y desde las 12 hasta las 14 horas, telefónica."
 
   questions:
     - "¿Cuál es el horario de atención al público de Secretaría? ¿Y cuál es el horario de atención telefónica de Secretaría?"

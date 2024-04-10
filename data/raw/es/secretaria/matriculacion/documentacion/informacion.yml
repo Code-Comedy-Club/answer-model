@@ -1,13 +1,13 @@
 - category: "secretaria_matriculacion_documentacion_informacion"
   
   answers:
-    - "Puedes encontrar más información en https://preinscripcio.gencat.cat/ca/inici/"
-    - "Para más detalles, visita https://preinscripcio.gencat.cat/ca/inici/"
-    - "Encuentra información adicional en https://preinscripcio.gencat.cat/ca/inici/"
-    - "Si necesitas más información, consulta https://preinscripcio.gencat.cat/ca/inici/"
-    - "Para información más detallada, accede a https://preinscripcio.gencat.cat/ca/inici/"
-    - "Si buscas más información, te recomendamos https://preinscripcio.gencat.cat/ca/inici/"
-    - "La información completa está disponible en https://preinscripcio.gencat.cat/ca/inici/"
+    - "Puedes encontrar más información sobre la matriculación en https://preinscripcio.gencat.cat/ca/inici/"
+    - "Para más detalles sobre la matriculación, visita https://preinscripcio.gencat.cat/ca/inici/"
+    - "Encuentra información adicional sobre la matriculación en https://preinscripcio.gencat.cat/ca/inici/"
+    - "Si necesitas más información sobre la matriculación, consulta https://preinscripcio.gencat.cat/ca/inici/"
+    - "Para información más detallada sobre la matriculación, accede a https://preinscripcio.gencat.cat/ca/inici/"
+    - "Si buscas más información sobre la matriculación, te recomendamos https://preinscripcio.gencat.cat/ca/inici/"
+    - "La información completa sobre la matriculación está disponible en https://preinscripcio.gencat.cat/ca/inici/"
 
   questions:
     - "¿Dónde puedo encontrar la información relevante para la matrícula?"
