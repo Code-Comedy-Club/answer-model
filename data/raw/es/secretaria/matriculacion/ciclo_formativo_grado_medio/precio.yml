@@ -1,13 +1,13 @@
 - category: "secretaria_matriculacion_ciclo_formativo_grado_medio_precio"
   
   answers:
-    - "El coste total para todo el curso, que incluye material, servicios y seguro, es de 60 euros."
-    - "Todo el curso, incluyendo material, servicios y seguro, tiene un costo de 60 euros."
-    - "Para todo el curso, el coste del material, servicios y seguro es de 60 euros."
-    - "El importe para el material, los servicios y el seguro durante la totalidad del curso asciende a 60 euros."
-    - "Por 60 euros, tendrás cubierto el costo del material, los servicios y el seguro durante todo el curso."
-    - "El desembolso total para el material, los servicios y el seguro durante todo el curso es de 60 euros."
-    - "Para cubrir el material, los servicios y el seguro durante todo el curso, se requieren 60 euros."
+    - "El coste total para todo el curso de ciclo medio, que incluye material, servicios y seguro, es de 60 euros."
+    - "Todo el curso de ciclo medio, incluyendo material, servicios y seguro, tiene un costo de 60 euros."
+    - "Para todo el curso de ciclo medio, el coste del material, servicios y seguro es de 60 euros."
+    - "El importe para el material, los servicios y el seguro durante la totalidad del curso de ciclo medio asciende a 60 euros."
+    - "Por 60 euros, tendrás cubierto el costo del material, los servicios y el seguro durante todo el curso de ciclo medio."
+    - "El desembolso total para el material, los servicios y el seguro durante todo el curso de ciclo medio es de 60 euros."
+    - "Para cubrir el material, los servicios y el seguro durante todo el curso de ciclo medio, se requieren 60 euros."
 
   questions:
     - "¿Cuál es el costo de inscripción para el grado medio?"

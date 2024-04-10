@@ -1,13 +1,13 @@
 - category: "secretaria_matriculacion_documentacion_no_presentada"
   
   answers:
-    - "Si no entrega la documentación a tiempo, perderá la plaza asignada."
-    - "La plaza asignada se perderá si no se entrega la documentación a tiempo."
-    - "La documentación debe ser entregada a tiempo, de lo contrario se perderá la plaza asignada."
-    - "Perderá su plaza asignada si no presenta la documentación a tiempo."
-    - "Sin la documentación entregada a tiempo, perderá la plaza que le ha sido asignada."
-    - "La plaza asignada será perdida si la documentación no se entrega puntualmente."
-    - "La no entrega de la documentación en el plazo establecido resultará en la pérdida de la plaza asignada."
+    - "Si no entrega la documentación a tiempo de la matrícula, perderá la plaza asignada."
+    - "La plaza asignada se perderá si no se entrega la documentación a tiempo de la matrícula."
+    - "La documentación de la matrícula debe ser entregada a tiempo, de lo contrario se perderá la plaza asignada."
+    - "Perderá su plaza asignada si no presenta la documentación de la matrícula a tiempo."
+    - "Sin la documentación de la matrícula entregada a tiempo, perderá la plaza que le ha sido asignada."
+    - "La plaza asignada será perdida si la documentación de la matrícula no se entrega puntualmente."
+    - "La no entrega de la documentación de la matrícula en el plazo establecido resultará en la pérdida de la plaza asignada."
 
   questions:
     - "¿Qué sucede si un estudiante no realiza la matrícula dentro del período establecido?"

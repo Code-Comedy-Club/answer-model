@@ -1,13 +1,13 @@
 - category: "secretaria_preinscripcion_no_realizada"
 
   answers:
-    - "Se te permite participar en la segunda ronda de admisión de vacantes."
-    - "Se te da la opción de entrar en la segunda fase de admisión de vacantes."
-    - "Podrás formar parte del segundo proceso de selección para vacantes disponibles."
-    - "Se te invita a participar en la segunda fase de selección de vacantes disponibles."
-    - "Estás invitado a seguir en el proceso de selección en su segunda etapa para vacantes."
-    - "Podrás participar en la segunda fase del proceso de admisión de vacantes."
-    - "Te animamos a inscribirte para la siguiente fase de admisión de vacantes."
+    - "Si no realizaste la preinscripción, se te permite participar en la segunda ronda de admisión de vacantes."
+    - "Si no has realizado la preinscripción, se te da la opción de entrar en la segunda fase de admisión de vacantes."
+    - "Si no realizaste la preinscripción, podrás formar parte del segundo proceso de selección para vacantes disponibles."
+    - "Si no realizaste la preinscripción, se te invita a participar en la segunda fase de selección de vacantes disponibles."
+    - "Si no realizaste la preinscripción, estás invitado a seguir en el proceso de selección en su segunda etapa para vacantes."
+    - "Si no realizaste la preinscripción, podrás participar en la segunda fase del proceso de admisión de vacantes."
+    - "Si no realizaste la preinscripción, te animamos a inscribirte para la siguiente fase de admisión de vacantes."
   
   questions:
     - "¿Qué ocurre si no he realizado la preinscripción?"
