@@ -96,14 +96,16 @@ class Algorithm(object):
             print(f"Prediction: {prediction}")
 
 if __name__ == '__main__':
-    # Initialize Algorithm instance with training and testing data
-    algorithm = Algorithm(
-        data            = import_data_as_pandas_dataframe(config.model["dataset_es"]),
-        model_name      = config.model["name"],
-        model_path      = config.model["output"]
-    )
 
-    algorithm.train()
-    algorithm.test()
-    algorithm.save()
-    #algorithm.play()
+    for dataset in config.model["datasets"]:
+        # Initialize Algorithm instance with training and testing data
+        algorithm = Algorithm(
+            data            = import_data_as_pandas_dataframe(config.dataset["path_raw"] + dataset),
+            model_name      = config.model["name"],
+            model_path      = config.model["output"] + dataset
+        )
+
+        algorithm.train()
+        algorithm.test()
+        algorithm.save()
+        #algorithm.play()
