@@ -7,6 +7,9 @@ on:
       - master
       - dev
 
+permissions:
+  contents: write
+
 jobs:
   generate-models:
     runs-on: ubuntu-latest
