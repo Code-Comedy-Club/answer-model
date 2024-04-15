@@ -34,13 +34,13 @@ jobs:
         run: python3 scripts/03-train.py
 
       - name: Compress models
-        run: zip -r data/output/models.zip data/output
+        run: zip -r data/models.zip data/output data/raw
       
       - name: Upload models
         uses: svenstaro/upload-release-action@v2
         with:
           repo_token: ${{ secrets.GITHUB_TOKEN }}
-          file: data/output/models.zip
+          file: data/models.zip
           asset_name: models.zip
           tag: ${{ github.ref }}
           overwrite: true
