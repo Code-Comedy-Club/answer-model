@@ -35,7 +35,7 @@ def translate(original_path: str = None, translated_path: str = None) -> None:
                         yaml.dump([data_translated], outfile, sort_keys = False, allow_unicode = True, width = float("inf"))
 
 def main():
-    translate(config.dataset["path_raw_es"], config.dataset["path_raw_en"])
+    translate(config.dataset["path_raw"] + config.dataset["path_raw_es"], config.dataset["path_raw"] + config.dataset["path_raw_en"])
 
 if __name__ == "__main__":
     main()
