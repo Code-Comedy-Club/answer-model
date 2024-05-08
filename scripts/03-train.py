@@ -72,7 +72,7 @@ class Algorithm(object):
 
         create_path(self.model_path)
                 
-        joblib.dump(self.model, os.path.join(self.model_path, self.model_name))
+        joblib.dump(self.model, os.path.join(self.model_path, self.model_name + ".joblib"))
         joblib.dump(self.tokenizer, os.path.join(self.model_path, "tokenizer.joblib"))
 
         save_matrix_as_png(self.test_results, self.model_path + "/results.png")

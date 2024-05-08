@@ -10,7 +10,7 @@ dataset["path_raw_en"] = "/en"
 model = {
 }
 
-model["name"] = "model.joblib"
+model["name"] = "model"
 model["output"] = "./data/output"
 model["datasets"] = [
     dataset["path_raw_es"],
